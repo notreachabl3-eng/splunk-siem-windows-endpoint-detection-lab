@@ -136,10 +136,13 @@ Automated alerts were configured to notify analysts when:
 ```
 Splunk-SIEM-Windows-Endpoint-Detection-Lab/
 │
-├── README.md
 ├── Report/
-│   └── Splunk_SIEM_Project_Report.pdf
-│
+│   └── splunk-siem-lab.pdf
+|
+├── SPL-Queries/
+|   ├── alert-queries.md
+│   └── detection_queries.md
+|
 ├── Screenshots/
 │   ├── architecture-diagram.png
 │   ├── dashboard1.png
@@ -148,11 +151,11 @@ Splunk-SIEM-Windows-Endpoint-Detection-Lab/
 │   ├── gmail-alerts.png
 │   ├── incident-timeline.png
 │   └── splunk-alerts.png
-│
-├── SPL_Queries/
-│   └── Detection_Queries.md
-│
-└── Documentation/
+|
+├── LICENSE
+|
+└── README.md
+
 ```
 
 ---
@@ -212,6 +215,7 @@ The project demonstrates practical experience with:
 
 The complete project report, including setup procedures, methodology, detection logic, screenshots, attack simulations, analysis, and conclusions, is available in:
 
+![Project Report](Report/splunk-siem-lab.pdf)
 
 ---
 
