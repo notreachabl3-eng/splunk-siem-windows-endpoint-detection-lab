@@ -213,7 +213,7 @@ The project demonstrates practical experience with:
 
 The complete project report, including setup procedures, methodology, detection logic, screenshots, attack simulations, analysis, and conclusions, is available in:
 
-![Project Report](Report/splunk-siem-lab.pdf)
+![Splunk SIEM Project Report](Report/splunk-siem-lab.pdf)
 
 ---
 
