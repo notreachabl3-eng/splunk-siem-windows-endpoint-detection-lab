@@ -146,8 +146,8 @@ Splunk-SIEM-Windows-Endpoint-Detection-Lab/
 │   ├── dashboard2.png
 │   ├── dashboard3.png
 │   ├── gmail-alerts.png
-│   ├── splunk-alerts.png
-│   └── Incident_Timeline.png
+│   ├── incident-timeline.png
+│   └── splunk-alerts.png
 │
 ├── SPL_Queries/
 │   └── Detection_Queries.md
@@ -184,6 +184,12 @@ Splunk-SIEM-Windows-Endpoint-Detection-Lab/
 ### Gmail Alerts
 
 ![Gmail Alerts](Screenshots/gmail-alerts.png)
+
+---
+
+### Incident Timeline
+
+![Incident Timeline](Screenshots/incident-timeline.png)
 
 ---
 
