@@ -164,8 +164,6 @@ Splunk-SIEM-Windows-Endpoint-Detection-Lab/
 
 ### Lab Architecture
 
-*(Insert architecture diagram here)*
-
 ![Lab Architecture](Screenshots/architecture-diagram.png)
 
 ---
