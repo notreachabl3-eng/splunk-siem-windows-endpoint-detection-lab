@@ -95,10 +95,6 @@ The project includes custom dashboard for:
 - Scheduled Task Creation Events
 - Registry Key Modification Events
 
-![Dashboard](Screenshots/dashboard1.png)
-![Dashboard](Screenshots/dashboard2.png)
-![Dashboard](Screenshots/dashboard3.png)
-
 ---
 
 ## Alerting
@@ -145,13 +141,12 @@ Splunk-SIEM-Windows-Endpoint-Detection-Lab/
 │   └── Splunk_SIEM_Project_Report.pdf
 │
 ├── Screenshots/
-│   ├── Lab_Architecture.png
-│   ├── Splunk_Dashboard.png
-│   ├── Failed_Logins.png
-│   ├── Brute_Force_Alert.png
-│   ├── PowerShell_Detection.png
-│   ├── User_Creation.png
-│   ├── Privilege_Escalation.png
+│   ├── architecture-diagram.png
+│   ├── dashboard1.png
+│   ├── dashboard2.png
+│   ├── dashboard3.png
+│   ├── gmail-alerts.png
+│   ├── splunk-alerts.png
 │   └── Incident_Timeline.png
 │
 ├── SPL_Queries/
@@ -168,35 +163,27 @@ Splunk-SIEM-Windows-Endpoint-Detection-Lab/
 
 *(Insert architecture diagram here)*
 
+![Lab Architecture](Screenshots/architecture-diagram.png)
+
 ---
 
 ### Splunk Security Dashboard
 
-*(Insert dashboard screenshot here)*
+![Dashboard](Screenshots/dashboard1.png)
+![Dashboard](Screenshots/dashboard2.png)
+![Dashboard](Screenshots/dashboard3.png)
 
 ---
 
-### Brute Force Detection
+### Splunk Alerts
 
-*(Insert brute force detection screenshot here)*
-
----
-
-### PowerShell Detection
-
-*(Insert PowerShell detection screenshot here)*
+![Splunk Alerts](Screenshots/splunk-alerts.png)
 
 ---
 
-### User Creation Detection
+### Gmail Alerts
 
-*(Insert Event ID 4720 detection screenshot here)*
-
----
-
-### Privilege Escalation Detection
-
-*(Insert Event ID 4732 detection screenshot here)*
+![Gmail Alerts](Screenshots/gmail-alerts.png)
 
 ---
 
