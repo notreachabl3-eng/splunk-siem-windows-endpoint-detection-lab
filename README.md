@@ -95,6 +95,10 @@ The project includes custom dashboard for:
 - Scheduled Task Creation Events
 - Registry Key Modification Events
 
+![Dashboard](Screenshots/dashboard1.png)
+![Dashboard](Screenshots/dashboard2.png)
+![Dashboard](Screenshots/dashboard3.png)
+
 ---
 
 ## Alerting
